@@ -35,7 +35,7 @@ gta6-fun-demo/
 
 1. **Clone the repository:**
 
-```bash
+bash
 git clone https://github.com/Vishal-suthar0604/GTA-6-Fun.git
 cd gta6-fun-demo
 
@@ -52,7 +52,7 @@ npm run build
 npm run preview
 
 📸 Screenshots :
-![Image Alt][https://github.com/Vishal-suthar0604/GTA-6-Fun/blob/41651d5963cfbc0c55af5a797538370544b0d9fe/public/Screenshot%202025-05-21%20202225.jpg]
+![Screenshot](https://github.com/Vishal-suthar0604/GTA-6-Fun/blob/41651d5963cfbc0c55af5a797538370544b0d9fe/public/Screenshot%202025-05-21%20202225.jpg)
 
 Screenshot 2025-05-21 202304.jpg
 
