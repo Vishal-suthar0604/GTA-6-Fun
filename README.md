@@ -52,7 +52,8 @@ npm run build
 npm run preview
 
 📸 Screenshots :
-Screenshot 2025-05-21 202225.jpg
+![Image Alt][https://github.com/Vishal-suthar0604/GTA-6-Fun/blob/41651d5963cfbc0c55af5a797538370544b0d9fe/public/Screenshot%202025-05-21%20202225.jpg]
+
 Screenshot 2025-05-21 202304.jpg
 
 🧠 Inspiration
