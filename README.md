@@ -54,7 +54,7 @@ npm run preview
 📸 Screenshots :
 ![Screenshot](https://github.com/Vishal-suthar0604/GTA-6-Fun/blob/41651d5963cfbc0c55af5a797538370544b0d9fe/public/Screenshot%202025-05-21%20202225.jpg)
 
-Screenshot 2025-05-21 202304.jpg
+![Screenshot](https://github.com/Vishal-suthar0604/GTA-6-Fun/blob/01668a7de3a14044d4389eb561261c2a61e9172d/public/Screenshot%202025-05-21%20202304.jpg)
 
 🧠 Inspiration
 Inspired by Rockstar Games' GTA 6 trailer visuals and Miami-style vaporwave art. Backgrounds generated using Sora AI with custom prompts.
